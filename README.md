@@ -1,2 +1,2 @@
 # arduino
-funny project of arduino
+funny projects of arduino
